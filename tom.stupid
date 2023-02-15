@@ -1,0 +1,10 @@
+inicio:
+    texto nome;
+    numero idade;
+
+    leia(a);
+    leia(b);
+
+    escreva(a);
+    escreva(b);
+fim;
