@@ -3,8 +3,8 @@
 ### Syntax example
 ```bash
 inicio:
-    texto a;
-    numero b;
+    texto a =  "Tom";
+    numero b = 18;
 
     leia(a);
     leia(b);
