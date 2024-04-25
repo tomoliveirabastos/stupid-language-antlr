@@ -12,7 +12,10 @@ inicio:
     leia(a);
     leia(b);
 
-    escreva(a);
-    escreva(b);
+    escreva(a, "Tom Oliveira");
+    escreva(b, 19);
+
+    leia(a)
+    leia(b)
 fim;
 ```
